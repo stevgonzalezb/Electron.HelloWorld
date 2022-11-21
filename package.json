@@ -1,0 +1,23 @@
+{
+  "name": "electron.helloworld",
+  "version": "1.0.0",
+  "description": "https://www.electronjs.org/",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevgonzalezb/Electron.HelloWorld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevgonzalezb/Electron.HelloWorld/issues"
+  },
+  "homepage": "https://github.com/stevgonzalezb/Electron.HelloWorld#readme",
+  "devDependencies": {
+    "electron": "^21.3.0"
+  }
+}
